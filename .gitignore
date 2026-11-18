@@ -1,0 +1,4 @@
+build/
+.gradle/
+local.properties
+mocap/src/main/assets/
